@@ -1,7 +1,5 @@
 # 2022-Basic-Track-Assignment
-
 TaeYun Kim (School of Computer Science & Engineering 🖥️, Chung-Ang Univ.) 
----
 
 ## Hands-On Machine Learning with Scikit-Learn Keras&Tensorflow
 - Official Github : https://github.com/rickiepark/handson-ml2
