@@ -8,7 +8,7 @@ TaeYun Kim (School of Computer Science & Engineering 🖥️, Chung-Ang Univ.)
  |Date|To Do List|Details|upload|
  |:----------:|:----:|:---------------:|:---:|
  |03/08 ~ 03/14|책 1강|한눈에 보는 머신러닝| X |
- |03/15 ~ 03/21|책 2강|머신러닝 프로젝트 처음부터 끝까지|[Link](https://github.com/KimTaeYun02/handson_markdown/tree/main/02)|
+ |03/15 ~ 03/21|책 2강|머신러닝 프로젝트 처음부터 끝까지|[Link](https://github.com/KimTaeYun02/handson_markdown/blob/main/02/02_end_to_end_machine_learning_project_KimTaeYun.ipynb)|
  |03/22 ~ 03/28|책 3강|분류| 업로드 예정(3/29) |
  |03/29 ~ 04/04|책 4강|모델 훈련| 업로드 예정(4/05) |
  |04/05 ~ 04/11|책 5강|서보트 벡터 머신| 업로드 예정(4/12) |
